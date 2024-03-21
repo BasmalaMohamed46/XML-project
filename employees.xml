@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employees.css"?>
+<employees>
+  
+<employee><name>basmala mohamed</name><phone>01205974265</phone><address>alexandria</address><email>basmalazain22@gmail.com</email></employee><employee><name>toka mohamed</name><phone>01205974265</phone><address>alexandria</address><email>tokazain22@gmail.com</email></employee><employee><name>renad mohamed</name><phone>01205974265</phone><address>alexandria</address><email>renadzain22@gmail.com</email></employee></employees>
